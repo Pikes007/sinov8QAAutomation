@@ -1,0 +1,24 @@
+1.
+Log a Residential request with the following issues:
+a. Plumbing – Blocked Drain
+b. Structural – Window
+In your maintenance request, please include one photo for each issue. Once you’re done, fill in the contact details and submit the request. Check that the following message is displayed after submitting: “Thank you for logging your request. We will respond to your request within 24hrs.”
+
+2.
+Log a Commercial request with the following issue:
+a. Other – My problem is not listed.
+Fill in where the problem is and what item is having issues. Under the problem description, type in a comment with over 200 characters. Fill in the contact details and submit the request. Check that the following validation message is displayed: “The description must not be greater than 200 characters”.
+
+3.
+Log a Body Corporate request with the following issue:
+a. Garden and pool – Irrigation system faulty
+In the problem description, clear the text ‘Faulty’ and enter a problem description less than 200 characters. In the contact details, type ‘123’ in the email address and submit the request.
+Check that the following validation message is displayed: “The email must be a valid email address.”
+
+4.
+Log a Residential request with the following issues:
+a. Doors and lock – Garage door faulty
+b. Appliances – Oven Faulty
+c. Garden and yard – Tap leaking
+Once three issues have been added, scroll to the top of the page and click on Roof Leaking (under Structural).
+Check that the following toast message is displayed: “Maximum issues reached”
